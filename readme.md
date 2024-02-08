@@ -1,5 +1,7 @@
 # HR - Dashboard using Power BI + SQL
 
+<img width="854" alt="Screenshot 2024-02-08 at 2 19 18 PM" src="https://github.com/Aditya0908/HR-Dashboard/assets/76906057/5bb9a581-a1ee-49f9-9c20-e724e26d93fd">
+<img width="1377" alt="Screenshot 2024-02-08 at 2 19 39 PM" src="https://github.com/Aditya0908/HR-Dashboard/assets/76906057/86263c7b-bbe0-4bd9-a352-8b51bc9147ad">
 
 ## Data Used
 
